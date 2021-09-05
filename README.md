@@ -24,6 +24,18 @@ interchange.
 
         pip install pyqt5
 
+## Run
+    python main.py
+    or
+    python mainpqt5.py 
+
+To run in browser using Qt's WebGL plugin
+
+    python main.py -platform webgl:8080
+
+Go to
+        http://localhost:8080
+
 
 ## Work in Progess
 
