@@ -1,0 +1,38 @@
+// specify plugin parameters if necessary
+        //PluginParameter { name: "here.app_id"; value: "DopspFs5MK6HS3c0h16h" }
+        //PluginParameter { name: "here.apiKey"; value: "y9XHoWFd3AX-r1R8NUmpmUmwObYHoqBn61kcsAaCzYw" }
+        /*PluginParameter {
+            name:"osm.mapping.highdpi_tiles"
+            value:false
+        }
+
+           PluginParameter {
+               name:"mapbox.access_token"
+               value:"pk.eyJ1IjoibWFub2pkOTYiLCJhIjoiY2tzeXVpMnczMXE2czJwczJwZTJ4N3B6aiJ9.GBHJNqRKGOT8tkRhXPsSJw"
+           }
+
+
+           PluginParameter {
+               name:"mapbox.mapping.map_id"
+               value:"mapbox.mapbox-streets-v8"
+           }
+           PluginParameter {
+               name:"mapbox.mapping.highdpi_tiles"
+               value:false
+           }
+           PluginParameter {
+               name:"mapbox.mapping.format"
+               value:"png256"
+           }
+           PluginParameter {
+               name:"mapbox.routing.use_mapbox_text_instructions"
+               value:"false"
+           }/*
+          PluginParameter {
+             name:"here.app_id"
+             value:"1S5LIWlFMPr9hEN1S5qL"
+          }
+          PluginParameter {
+             name:"here.token"
+             value:"gskFDtS7IJyCFTJgrfXb2htHK00o9Mgb1wjWtoEZOD8"
+          }*/
