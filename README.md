@@ -8,7 +8,7 @@
 This project is intended to faciliate effective fleet and Driver Management driver interchange efficiently in the middle of the journey, so that drivers would reach start of the journey at
 the end of the day. The Project is in progress.
 
-## Features
+## Planned Features
 
 - [ ] Database of Fleets, Drivers and Routes
 - [ ] Creating an algorithm that analyzes all bus schedules, start and end point of the journey and driver's availability to suggest appropriate driver
